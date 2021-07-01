@@ -1,4 +1,4 @@
-{"_id":{"$oid":"601ac115be37ce2ead437551"},"barcode":"511111019862","category":"Baking","categoryCode":"BAKING","cpg":{"$id":{"$oid":"601ac114be37ce2ead437550"},"$ref":"Cogs"},"name":"test brand @1612366101024","topBrand":false}
+[{"_id":{"$oid":"601ac115be37ce2ead437551"},"barcode":"511111019862","category":"Baking","categoryCode":"BAKING","cpg":{"$id":{"$oid":"601ac114be37ce2ead437550"},"$ref":"Cogs"},"name":"test brand @1612366101024","topBrand":false}
 {"_id":{"$oid":"601c5460be37ce2ead43755f"},"barcode":"511111519928","brandCode":"STARBUCKS","category":"Beverages","categoryCode":"BEVERAGES","cpg":{"$id":{"$oid":"5332f5fbe4b03c9a25efd0ba"},"$ref":"Cogs"},"name":"Starbucks","topBrand":false}
 {"_id":{"$oid":"601ac142be37ce2ead43755d"},"barcode":"511111819905","brandCode":"TEST BRANDCODE @1612366146176","category":"Baking","categoryCode":"BAKING","cpg":{"$id":{"$oid":"601ac142be37ce2ead437559"},"$ref":"Cogs"},"name":"test brand @1612366146176","topBrand":false}
 {"_id":{"$oid":"601ac142be37ce2ead43755a"},"barcode":"511111519874","brandCode":"TEST BRANDCODE @1612366146051","category":"Baking","categoryCode":"BAKING","cpg":{"$id":{"$oid":"601ac142be37ce2ead437559"},"$ref":"Cogs"},"name":"test brand @1612366146051","topBrand":false}
@@ -1165,4 +1165,4 @@
 {"_id":{"$oid":"5f494c6e04db711dd8fe87e7"},"name":"test brand @1598639215217","cpg":{"$ref":"Cogs","$id":{"$oid":"5332fa12e4b03c9a25efd1e7"}},"category":"Candy & Sweets","categoryCode":"CANDY_AND_SWEETS","barcode":"511111416173","brandCode":"TEST BRANDCODE @1598639215217"}
 {"_id":{"$oid":"5a021611e4b00efe02b02a57"},"name":"LIPTON TEA Leaves","cpg":{"$ref":"Cogs","$id":{"$oid":"5332f5f6e4b03c9a25efd0b4"}},"category":"Grocery","barcode":"511111400608","brandCode":"LIPTON TEA Leaves","topBrand":false}
 {"_id":{"$oid":"6026d757be37ce6369301468"},"barcode":"511111019930","brandCode":"TEST BRANDCODE @1613158231644","category":"Baking","categoryCode":"BAKING","cpg":{"$id":{"$oid":"6026d757be37ce6369301467"},"$ref":"Cogs"},"name":"test brand @1613158231643","topBrand":false}
-
+]
